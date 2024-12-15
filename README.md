@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8qywqjvrho36xvv9?svg=true)](https://ci.appveyor.com/project/holllygun/validators)
